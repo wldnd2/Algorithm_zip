@@ -1,10 +1,10 @@
 # [level 1] 부족한 금액 계산하기 - 82612 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=python3) 
 
 ### 성능 요약
 
-메모리: 4.12 MB, 시간: 0.01 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 02일 20:11:04
+2024년 09월 02일 20:19:55
 
 ### 문제 설명
 
