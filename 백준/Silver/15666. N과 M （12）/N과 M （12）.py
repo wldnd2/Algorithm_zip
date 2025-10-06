@@ -4,8 +4,6 @@ input = sys.stdin.readline
 
 n, m = map(int, input().split())
 data = sorted(list(map(int, input().split())))
-visited = [False]*10001 
-result = []
 
 def bk(depth, pre, curr):
     if depth == m:
